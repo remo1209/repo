@@ -1,0 +1,57 @@
+{
+    "temples": [        
+        {
+            "name": "Rome Italy Temple",
+            "closures": [
+                "Tuesday, 24 December 2019 - Thursday, 26 December 2019",
+                "Tuesday, 31 December 2019 - Wednesday, 1 January 2020",
+                "Monday, 23 March 2020 - Monday, 6 April 2020",
+                "Monday, 21 September 2020 - Monday, 5 October 2020",
+                "Thursday, 24 December 2020 - Saturday, 26 December 2020",
+                "Thursday, 31 December 2020 - Friday, 1 January 2021"
+            ]
+        },  
+        
+        {
+            "name": "Bern Switzerland Temple",
+            "closures": [
+                "Tuesday, 24 December 2019 - Thursday, 26 December 2019",
+                "Tuesday, 31 December 2019",
+                "Wednesday, 1 January 2020 - Thursday, 2 January 2020",
+                "Monday, 6 January 2020 - Monday, 20 January 2020",
+                "Monday, 18 May 2020 - Monday, 13 July 2020",
+                "Thursday, 24 December 2020 - Saturday, 26 December 2020",
+                "Thursday, 31 December 2020"
+            ]
+        }, 
+     
+        {
+            "name": "Melbourne Australia Temple",
+            "closures": [
+                "Tuesday, 24 December 2019",
+                "Wednesday, 25 December 2019 - Thursday, 26 December 2019",
+                "Wednesday, 1 January 2020",
+                "Monday, 23 March 2020 - Monday, 6 April 2020",
+                "Friday, 10 April 2020 (Limited Hours)",
+                "Saturday, 11 April 2020",
+                "Saturday, 25 April 2020",
+                "Monday, 28 September 2020 - Monday, 12 October 2020",
+                "Thursday, 24 December 2020 - Saturday, 26 December 2020",
+                "Thursday, 31 December 2020"
+            ]
+        },
+
+        {
+            "name": "Sapporo Japan Temple",
+            "closures": [
+                "Wednesday, 25 December 2019",
+                "Wednesday, 1 January 2020 - Friday, 3 January 2020",
+                "Saturday, 11 April 2020",
+                "Monday, 7 September 2020 - Tuesday, 22 September 2020",
+                "Saturday, 10 October 2020",
+                "Friday, 25 December 2020"
+            ]
+        }
+
+    ]
+}
